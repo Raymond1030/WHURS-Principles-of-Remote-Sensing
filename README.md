@@ -21,7 +21,7 @@ This is a Homework of Course Principles of Remote Sensing in Wuhan University.
 
 1. 基于特征指数的遥感专题信息提取
 
- - [Index.cpp](https://github.com/Raymond1030/WHU-Principles-of-Remote-  Sensing-/blob/main/Index/Index/Index.cpp)
+ - [Index.cpp](https://github.com/Raymond1030/WHU-Principles-of-Remote-Sensing-/blob/main/Index/Index/Index.cpp)
 
    > main function
    >

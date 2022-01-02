@@ -15,7 +15,7 @@ This is a Homework of Course Principles of Remote Sensing in Wuhan University.
 
 `@date：2021.6.26`
 
-##### 原理：[遥感原理实习指导 报告.pdf](遥感原理实习指导 报告.pdf)
+##### 原理：[遥感原理实习指导 报告.pdf](https://github.com/Raymond1030/WHU-Principles-of-Remote-Sensing/blob/main/%E9%81%A5%E6%84%9F%E5%8E%9F%E7%90%86%E5%AE%9E%E4%B9%A0%E6%8C%87%E5%AF%BC%20%E6%8A%A5%E5%91%8A.pdf)
 
 ## 项目文件:
 

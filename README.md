@@ -35,13 +35,13 @@ This is a Homework of Course Principles of Remote Sensing in Wuhan University.
 
 2. 遥感影像阴影检测
 
-- [阴影检测.cpp](https://github.com/Raymond1030/WHURS-Principles-of-Remote-Sensing-/blob/main/ShadowDetect/阴影检测/阴影检测.cpp)
+- [阴影检测.cpp](https://github.com/Raymond1030/WHURS-Principles-of-Remote-Sensing/blob/main/ShadowDetect/阴影检测/阴影检测.cpp)
 
   > Shadow Detect
   >
   > 阴影检测
 
-- [ShadowDetect.cpp](https://github.com/Raymond1030/WHURS-Principles-of-Remote-Sensing-/blob/main/ShadowDetect/阴影检测/ShadowDetect.cpp)
+- [ShadowDetect.cpp](https://github.com/Raymond1030/WHURS-Principles-of-Remote-Sensing/blob/main/ShadowDetect/阴影检测/ShadowDetect.cpp)
 
   > main function
   >

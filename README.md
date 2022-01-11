@@ -11,7 +11,7 @@ This is a Homework of Course Principles of Remote Sensing in Wuhan University.
 
 **注意：此程序运行需先预先安装OpenCV库！本代码已移除！**
 
-**Attention：OpenCV is needed ! The Program is not included !**
+**Attention：OpenCV is needed ! The repository is not included !**
 
 `@date：2021.6.26`
 

@@ -9,7 +9,7 @@ This is a Homework of Course Principles of Remote Sensing in Wuhan University.
 
    - Pre-requisite:`OpenCV 4.1.0`
 
-**注意：此程序运行需先预先安装OpenCV库！本代码已移除！**
+**注意：此程序运行需先预先安装OpenCV库！本仓库已移除！**
 
 **Attention：OpenCV is needed ! The repository is not included !**
 
